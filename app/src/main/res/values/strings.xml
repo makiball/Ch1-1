@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ch1-1</string>
+
+    <string name="bacon_ipsum_short">
+         카드뷰 샘플 소스 내용.
+    </string>
+
+    <string name="bacon_ipsum">
+        카드뷰 화면전환 에니메애션 적용소스입니다.
+    </string>
+
+</resources>
